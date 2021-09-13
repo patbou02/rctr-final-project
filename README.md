@@ -6,7 +6,7 @@
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+I will be creating a recipes Application where I can search recipes, get details about them such as ingredients, nutrients and similar recipes.
 
 
 ## Wireframes
@@ -22,21 +22,22 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP EXAMPLE
-- Home page with several sections about my site
-- Products page that will render product info pulled in via an API  
-- Ability for user to favorite a product
-- Ability for user to add product to shopping cart
+- Home page displaying main list of recipes
+- Recipes listings will pull in data from the [Spoontacular API](https://spoontacular.com)
+- Clicking on single recipe card will open up more detailed view of recipe containing much more information
+- Similar recipes will be displayed on a sidebar of the recipes detail page
+- Use external library for front end "look and feel" will also provide basic responsiveness functionality
 
 #### PostMVP EXAMPLE
 
-- Add Stripe or Shopify Pay for checkout
-- Caputre users email in a form and send an automated response
-- Build the app for mobile/tablet/desktop
+- Ability to filter recipes based on several factors
+- Ability for user to favorite a recipe
+- Ability for user to add recipes car
+- Polish the responsiveness of the app for multiple types of displays (i.e. mobile, tablet, desktop, etc...)
 
-## API
+## Spoontacular API
 
-If you opted to make use of an API then use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
-
+Spoontacular API will be used to gather food/recipe data that will be served to users. Documentation is available at [Spoontacular's Documentation page](https://spoontacular.com/food-api/docs)
 
 ```
 {data: {} }
@@ -55,7 +56,7 @@ Based on the initial logic defined in the previous sections try and breakdown th
 
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
+[React Boostrap](https://react-bootstrap.github.io/) will be used as a framework for building the Components in a way that these fit as seamlessly as possible with the React methodology and architecture while providing all of the benefits expected from the Boostrap framework.
 
 ## Code Snippet
 
