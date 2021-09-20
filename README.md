@@ -11,11 +11,10 @@ I will be creating a recipes Application where I can search recipes, get details
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
-
-- [add link to your visual wireframes]()
-- [add link to your react architecture]()
-
+### Recipes Page
+![Wireframe--Recipes](https://github.com/patbou02/rctr-final-project/blob/main/Wireframe--Recipes.png)
+### Individual Recipe
+![Wireframe--Recipes-Detail](https://github.com/patbou02/rctr-final-project/blob/main/Wireframe--Recipe-Detail.png)
 
 ### MVP/PostMVP - 5min
 
