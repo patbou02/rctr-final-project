@@ -45,6 +45,8 @@ Spoontacular API will be used to gather food/recipe data that will be served to 
 ## Components
 ##### Writing out your components and its descriptions isn't a required part of the proposal but can be helpful.
 
+![Components-Architecture](https://github.com/patbou02/rctr-final-project/blob/main/component-architecture.png)
+
 Based on the initial logic defined in the previous sections try and breakdown the logic further into stateless/stateful components. 
 
 | Component | Description | 
